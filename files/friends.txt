@@ -1,0 +1,5 @@
+Harri,2,Ian
+julie,2,carlos
+ian,1
+Harri,2
+leamas,1
