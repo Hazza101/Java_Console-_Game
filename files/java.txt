@@ -1,5 +1,4 @@
-Harri,0,0,12
-julie,10,0,0
-ian,0,0,11
-Harri,0,0,0
-leamas,0,0,0
+alec,10,0,0
+liz,24,0,0
+hans,30,0,0
+george,5,0,0
